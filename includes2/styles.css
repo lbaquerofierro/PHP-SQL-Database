@@ -1,0 +1,1244 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 0.875em/1.38 Arial;
+  color: rgb(25, 157, 38);
+}
+
+.acontainer {
+  width: 82.5%;
+  max-width: 1000px;
+  height: 636px;
+  margin: 13px auto 0;
+}
+
+.ciudad1 {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 22;
+  width: 19.0376569037%;
+  height: 24px;
+  margin: 10px 0 0 6.5899599999%;
+  padding: 0 10px;
+  border: 1px solid rgb(128, 128, 128);
+  border-radius: 3px;
+  background-color: rgb(242, 242, 242);
+  font: 400 0.929em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.ciudad2 {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 15;
+  width: 19.0376569037%;
+  height: 24px;
+  margin: 10px 0 0 6.5899599999%;
+  padding: 0 10px;
+  border: 1px solid rgb(128, 128, 128);
+  border-radius: 3px;
+  background-color: rgb(242, 242, 242);
+  font: 400 0.929em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.contenedor {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 7;
+  width: 9.5188284518%;
+  min-height: 7px;
+  margin: 14px 0 0 8.159%;
+  font: 400 1.143em/1.38 Helvetica;
+  color: rgb(0,0,0);
+}
+
+.contenedor_altura {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 3;
+  width: 19.0376569037%;
+  height: 24px;
+  margin: 14px 0 0 6.5899599999%;
+  padding: 0 10px;
+  border: 1px solid rgb(128, 128, 128);
+  border-radius: 3px;
+  background-color: rgb(242, 242, 242);
+  font: 400 0.929em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.contenedor_nombre {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 5;
+  width: 19.0376569037%;
+  height: 24px;
+  margin: 14px 0 0 3.66109%;
+  padding: 0 10px;
+  border: 1px solid rgb(128, 128, 128);
+  border-radius: 3px;
+  background-color: rgb(242, 242, 242);
+  font: 400 0.929em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.db {
+  position: relative;
+  float: left;
+  z-index: 27;
+  width: 96.5656565656%;
+  height: 606px;
+  margin: 17px 0 0 2.21907%;
+}
+
+.destino {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 19;
+  width: 7.8451882845%;
+  min-height: 7px;
+  margin: 10px 0 0 8.159%;
+  font: 400 1.143em/1.38 Helvetica;
+  color: rgb(0,0,0);
+}
+
+.form-label {
+  display: inline-block;
+  position: relative;
+  float: left;
+}
+
+.line {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 28;
+  width: 0.101010101%;
+  height: 409px;
+  margin: -550px 0 0 20.50505%;
+  border: 1px dashed rgb(0, 0, 0);
+}
+
+.logistica {
+  display: inline-block;
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 12;
+  margin: 12px 0 0 8.159%;
+  font: 400 1.143em/1.38 Helvetica;
+  color: rgb(0,0,0);
+}
+
+.logistica_prov {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 8;
+  width: 19.0376569037%;
+  height: 24px;
+  margin: 12px 0 0 6.5899599999%;
+  padding: 0 10px;
+  border: 1px solid rgb(128, 128, 128);
+  border-radius: 3px;
+  background-color: rgb(242, 242, 242);
+  font: 400 0.929em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.logistica_tipo {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 10;
+  width: 19.0376569037%;
+  height: 24px;
+  margin: 12px 0 0 6.48536%;
+  padding: 0 10px;
+  border: 1px solid rgb(128, 128, 128);
+  border-radius: 3px;
+  background-color: rgb(242, 242, 242);
+  font: 400 0.929em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.logo {
+  float: left;
+  width: 99.8937300743%;
+  margin: 68px 0 0 0.10627%;
+  font: 400 2.857em/1.38 Helvetica;
+  color: rgb(0,0,0);
+}
+
+.main {
+  position: relative;
+  float: left;
+  clear: both;
+  width: 127.5239107332%;
+  height: 676px;
+  margin: 12px 0 0 -13.81509%;
+}
+
+.origen {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 26;
+  width: 7.1129707112%;
+  min-height: 7px;
+  margin: 10px 0 0 8.159%;
+  font: 400 1.143em/1.38 Helvetica;
+  color: rgb(0,0,0);
+}
+
+.pais1 {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 24;
+  width: 19.0376569037%;
+  height: 24px;
+  margin: 10px 0 0 6.06695%;
+  padding: 0 10px;
+  border: 1px solid rgb(128, 128, 128);
+  border-radius: 3px;
+  background-color: rgb(242, 242, 242);
+  font: 400 0.929em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.pais2 {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 17;
+  width: 19.0376569037%;
+  height: 24px;
+  margin: 10px 0 0 5.33473%;
+  padding: 0 10px;
+  border: 1px solid rgb(128, 128, 128);
+  border-radius: 3px;
+  background-color: rgb(242, 242, 242);
+  font: 400 0.929em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.precio {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 1;
+  width: 19.0376569037%;
+  height: 24px;
+  margin: 33px 0 0 8.36657%;
+  padding: 0 10px;
+  border: 1px solid rgb(128, 128, 128);
+  border-radius: 3px;
+  background-color: rgb(242, 242, 242);
+  font: 400 0.929em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.puerto1 {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 20;
+  width: 19.0376569037%;
+  height: 24px;
+  margin: 10px 0 0 6.5899599999%;
+  padding: 0 10px;
+  border: 1px solid rgb(128, 128, 128);
+  border-radius: 3px;
+  background-color: rgb(242, 242, 242);
+  font: 400 0.929em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.puerto2 {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 13;
+  width: 19.0376569037%;
+  height: 24px;
+  margin: 10px 0 0 6.5899599999%;
+  padding: 0 10px;
+  border: 1px solid rgb(128, 128, 128);
+  border-radius: 3px;
+  background-color: rgb(242, 242, 242);
+  font: 400 0.929em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.submit {
+  display: block;
+  float: left;
+  clear: both;
+  width: 11.2970711297%;
+  height: 33px;
+  margin: 31px 0 0 21.33728%;
+  border-radius: 3px;
+  background-color: rgb(29, 157, 65);
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._container {
+  width: 78.4166666666%;
+  height: 133px;
+  margin: 0 auto;
+  border-bottom: 1px dashed rgb(0, 0, 0);
+  background-color: rgba(9, 96, 57, 0);
+}
+
+.form-label-1 {
+  z-index: 25;
+  margin: 70px 0 0 21.33728%;
+  font-size: 1em;
+  color: rgb(25, 157, 38);
+}
+
+.form-label-10 {
+  z-index: 4;
+  margin: 19px 0 0 20.29289%;
+  font-size: 1em;
+  color: rgb(25, 157, 38);
+}
+
+.form-label-11 {
+  clear: both;
+  z-index: 2;
+  margin: 33px 0 0 8.159%;
+  font-family: Helvetica;
+  font-size: 1.143em;
+  font-weight: 400;
+  color: rgb(0,0,0);
+}
+
+.form-label-2 {
+  z-index: 23;
+  margin: 70px 0 0 22.69548%;
+  font-size: 1em;
+  color: rgb(25, 157, 38);
+}
+
+.form-label-3 {
+  z-index: 21;
+  margin: 70px 0 0 20.9188699999%;
+  font-size: 1em;
+  color: rgb(25, 157, 38);
+}
+
+.form-label-4 {
+  clear: both;
+  z-index: 18;
+  margin: 15px 0 0 21.33728%;
+  font-size: 1em;
+  color: rgb(25, 157, 38);
+}
+
+.form-label-5 {
+  z-index: 16;
+  margin: 15px 0 0 22.69548%;
+  font-size: 1em;
+  color: rgb(25, 157, 38);
+}
+
+.form-label-6 {
+  z-index: 14;
+  margin: 15px 0 0 20.9188699999%;
+  font-size: 1em;
+  color: rgb(25, 157, 38);
+}
+
+.form-label-7 {
+  clear: both;
+  z-index: 11;
+  margin: 22px 0 0 21.33728%;
+  font-size: 1em;
+  color: rgb(25, 157, 38);
+}
+
+.form-label-8 {
+  z-index: 9;
+  margin: 22px 0 0 22.69548%;
+  font-size: 1em;
+  color: rgb(25, 157, 38);
+}
+
+.form-label-9 {
+  clear: both;
+  z-index: 6;
+  margin: 19px 0 0 21.33728%;
+  font-size: 1em;
+  color: rgb(25, 157, 38);
+}
+
+@media(max-width: 1056px) {
+  .acontainer .db {
+    position: relative;
+    z-index: 27;
+    width: 96.6704936854%;
+    height: 485px;
+    margin-top: 7px;
+    margin-left: 2.22043%;
+  }
+
+  .acontainer .line {
+    position: relative;
+    z-index: 28;
+    width: 0.2296211251%;
+    margin-top: -432px;
+    margin-left: 19.8619%;
+  }
+
+  .db .ciudad1 {
+    position: relative;
+    z-index: 22;
+    margin-left: 6.76834%;
+  }
+
+  .db .ciudad2 {
+    position: relative;
+    z-index: 15;
+    margin-top: 18px;
+    margin-left: 6.76834%;
+  }
+
+  .db .contenedor {
+    position: relative;
+    z-index: 7;
+    width: 12.7078384798%;
+    margin-top: 10px;
+    margin-left: 7.83703%;
+    font-size: 0.929em;
+  }
+
+  .db .contenedor_altura {
+    position: relative;
+    z-index: 3;
+    margin-top: 10px;
+    margin-left: 6.76834%;
+  }
+
+  .db .contenedor_nombre {
+    position: relative;
+    z-index: 5;
+    margin-top: 10px;
+    margin-left: 2.37486%;
+  }
+
+  .db .destino {
+    position: relative;
+    z-index: 19;
+    margin-top: 18px;
+    margin-left: 7.83703%;
+    font-size: 0.929em;
+  }
+
+  .db .form-label {
+    position: relative;
+  }
+
+  .db .logistica {
+    position: relative;
+    z-index: 12;
+    margin-top: 13px;
+    margin-left: 7.83703%;
+    font-size: 0.929em;
+  }
+
+  .db .logistica_prov {
+    position: relative;
+    z-index: 8;
+    margin-top: 13px;
+    margin-left: 6.76834%;
+  }
+
+  .db .logistica_tipo {
+    position: relative;
+    z-index: 10;
+    margin-top: 13px;
+    margin-left: 8.312%;
+  }
+
+  .db .origen {
+    position: relative;
+    z-index: 26;
+    margin-left: 7.83703%;
+    font-size: 0.929em;
+  }
+
+  .db .pais1 {
+    position: relative;
+    z-index: 24;
+    margin-left: 7.95577%;
+  }
+
+  .db .pais2 {
+    position: relative;
+    z-index: 17;
+    margin-top: 18px;
+    margin-left: 7.24146%;
+  }
+
+  .db .precio {
+    position: relative;
+    z-index: 1;
+    margin-top: 31px;
+    margin-left: 10.33248%;
+  }
+
+  .db .puerto1 {
+    position: relative;
+    z-index: 20;
+    margin-left: 8.66823%;
+  }
+
+  .db .puerto2 {
+    position: relative;
+    z-index: 13;
+    margin-top: 18px;
+    margin-left: 8.78697%;
+  }
+
+  .db .submit {
+    margin-top: 33px;
+    margin-left: 22.91922%;
+  }
+
+  .main .acontainer {
+    height: 495px;
+    margin-top: 3px;
+  }
+
+  ._container {
+    height: 158px;
+  }
+
+  .db .form-label-1 {
+    z-index: 25;
+    margin-left: 22.91922%;
+  }
+
+  .db .form-label-10 {
+    z-index: 4;
+    margin-top: 23px;
+    margin-left: 19.59442%;
+  }
+
+  .db .form-label-11 {
+    z-index: 2;
+    margin-top: 31px;
+    margin-left: 7.83703%;
+    font-size: 0.929em;
+  }
+
+  .db .form-label-2 {
+    z-index: 23;
+    margin-left: 22.44425%;
+  }
+
+  .db .form-label-3 {
+    z-index: 21;
+    margin-left: 20.07125%;
+  }
+
+  .db .form-label-4 {
+    z-index: 18;
+    margin-top: 18px;
+    margin-left: 22.91922%;
+  }
+
+  .db .form-label-5 {
+    z-index: 16;
+    margin-top: 18px;
+    margin-left: 22.44425%;
+  }
+
+  .db .form-label-6 {
+    z-index: 14;
+    margin-top: 18px;
+    margin-left: 20.07125%;
+  }
+
+  .db .form-label-7 {
+    z-index: 11;
+    margin-top: 21px;
+    margin-left: 22.91922%;
+  }
+
+  .db .form-label-8 {
+    z-index: 9;
+    margin-top: 21px;
+    margin-left: 22.20862%;
+  }
+
+  .db .form-label-9 {
+    z-index: 6;
+    margin-top: 23px;
+    margin-left: 22.91922%;
+  }
+
+  ._container .logo-1 {
+    width: 100%;
+    margin-top: 108px;
+    margin-left: 0;
+    font-size: 2.143em;
+  }
+
+  ._container .main-1 {
+    height: 508px;
+    margin-top: 11px;
+    margin-left: -13.81399%;
+  }
+}
+
+@media(max-width: 768px) {
+  body {
+    font-size: 0.875em;
+  }
+
+  .acontainer .db {
+    position: relative;
+    z-index: 27;
+    margin-top: 1px;
+    margin-left: 2.21954%;
+  }
+
+  .acontainer .line {
+    position: relative;
+    z-index: 28;
+    margin-top: -433px;
+    margin-left: 20.34329%;
+  }
+
+  .db .ciudad1 {
+    position: relative;
+    z-index: 22;
+    margin-left: 6.7631%;
+  }
+
+  .db .ciudad2 {
+    position: relative;
+    z-index: 15;
+    margin-top: 10px;
+    margin-left: 6.7631%;
+  }
+
+  .db .contenedor {
+    position: relative;
+    z-index: 7;
+    margin-left: 5.8753%;
+    font-size: 13px;
+  }
+
+  .db .contenedor_altura {
+    position: relative;
+    z-index: 3;
+    margin-left: 6.7631%;
+  }
+
+  .db .contenedor_nombre {
+    position: relative;
+    z-index: 5;
+    margin-left: 4.24767%;
+  }
+
+  .db .destino {
+    position: relative;
+    z-index: 19;
+    margin-top: 10px;
+    margin-left: 5.8753%;
+    font-size: 13px;
+  }
+
+  .db .form-label {
+    position: relative;
+  }
+
+  .db .logistica {
+    position: relative;
+    z-index: 12;
+    margin-left: 5.8753%;
+    font-size: 13px;
+  }
+
+  .db .logistica_prov {
+    position: relative;
+    z-index: 8;
+    margin-left: 6.04368%;
+  }
+
+  .db .logistica_tipo {
+    position: relative;
+    z-index: 10;
+    margin-left: 8.31165%;
+  }
+
+  .db .origen {
+    position: relative;
+    z-index: 26;
+    margin-left: 5.8753%;
+    font-size: 13px;
+  }
+
+  .db .pais1 {
+    position: relative;
+    z-index: 24;
+    margin-left: 9.80152%;
+  }
+
+  .db .pais2 {
+    position: relative;
+    z-index: 17;
+    margin-top: 10px;
+    margin-left: 9.14843%;
+  }
+
+  .db .precio {
+    position: relative;
+    z-index: 1;
+    margin-left: 10.77606%;
+  }
+
+  .db .puerto1 {
+    position: relative;
+    z-index: 20;
+    margin-left: 2.4389%;
+  }
+
+  .db .puerto2 {
+    position: relative;
+    z-index: 13;
+    margin-top: 10px;
+    margin-left: 6.36257%;
+  }
+
+  .db .submit {
+    margin-top: 17px;
+    margin-left: 22.91954%;
+  }
+
+  ._container {
+    height: 109px;
+  }
+
+  .db .form-label-1 {
+    z-index: 25;
+    margin-left: 22.91954%;
+  }
+
+  .db .form-label-10 {
+    z-index: 4;
+    margin-top: 28px;
+    margin-left: 17.15649%;
+  }
+
+  .db .form-label-11 {
+    z-index: 2;
+    margin-left: 5.8753%;
+    font-size: 13px;
+  }
+
+  .db .form-label-2 {
+    z-index: 23;
+    margin-left: 21.07761%;
+  }
+
+  .db .form-label-3 {
+    z-index: 21;
+    margin-left: 20.06735%;
+  }
+
+  .db .form-label-4 {
+    z-index: 18;
+    margin-top: 27px;
+    margin-left: 22.91954%;
+  }
+
+  .db .form-label-5 {
+    z-index: 16;
+    margin-top: 27px;
+    margin-left: 21.07761%;
+  }
+
+  .db .form-label-6 {
+    z-index: 14;
+    margin-top: 27px;
+    margin-left: 20.06735%;
+  }
+
+  .db .form-label-7 {
+    z-index: 11;
+    margin-top: 28px;
+    margin-left: 22.91954%;
+  }
+
+  .db .form-label-8 {
+    z-index: 9;
+    margin-top: 28px;
+    margin-left: 22.20777%;
+  }
+
+  .db .form-label-9 {
+    z-index: 6;
+    margin-left: 23.03689%;
+  }
+
+  ._container .logo-1 {
+    width: 92.1926910299%;
+    margin-top: 73px;
+    font-size: 1.429em;
+  }
+
+  ._container .main-1 {
+    margin-top: 10px;
+    margin-left: -13.81055%;
+  }
+}
+
+@media(max-width: 480px) {
+  body {
+    font-size: 0.688em;
+  }
+
+  .acontainer .db {
+    position: relative;
+    z-index: 27;
+    height: 726px;
+    margin-left: 2.21363%;
+  }
+
+  .acontainer .line {
+    position: relative;
+    z-index: 28;
+    height: 684px;
+    margin-top: -703px;
+    margin-left: 33.07817%;
+  }
+
+  .db .ciudad1 {
+    position: relative;
+    z-index: 22;
+    width: 39.6866840731%;
+    margin-top: -49px;
+    margin-left: 44.38549%;
+    font-size: 1.182em;
+  }
+
+  .db .ciudad2 {
+    position: relative;
+    z-index: 15;
+    width: 39.6866840731%;
+    margin-top: -49px;
+    margin-left: 44.38549%;
+    font-size: 1.182em;
+  }
+
+  .db .contenedor {
+    position: relative;
+    z-index: 7;
+    margin-top: -78px;
+    margin-left: 5.87371%;
+    font-size: 1.182em;
+  }
+
+  .db .contenedor_altura {
+    position: relative;
+    z-index: 3;
+    width: 39.6866840731%;
+    margin-top: 12px;
+    margin-left: 44.38549%;
+    font-size: 1.182em;
+  }
+
+  .db .contenedor_nombre {
+    position: relative;
+    z-index: 5;
+    width: 39.6866840731%;
+    margin-top: -51px;
+    margin-left: 44.38549%;
+    font-size: 1.182em;
+  }
+
+  .db .destino {
+    position: relative;
+    z-index: 19;
+    margin-top: -137px;
+    margin-left: 5.87371%;
+    font-size: 1.182em;
+  }
+
+  .db .form-label {
+    position: relative;
+  }
+
+  .db .logistica {
+    position: relative;
+    z-index: 12;
+    margin-top: -84px;
+    margin-left: 5.87371%;
+    font-size: 1.182em;
+  }
+
+  .db .logistica_prov {
+    position: relative;
+    z-index: 8;
+    width: 39.6866840731%;
+    margin-top: 9px;
+    margin-left: 44.38549%;
+    font-size: 1.182em;
+  }
+
+  .db .logistica_tipo {
+    position: relative;
+    z-index: 10;
+    width: 39.6866840731%;
+    margin-top: -48px;
+    margin-left: 44.38549%;
+    font-size: 1.182em;
+  }
+
+  .db .origen {
+    position: relative;
+    z-index: 26;
+    margin-top: -119px;
+    margin-left: 5.87371%;
+    font-size: 1.182em;
+  }
+
+  .db .pais1 {
+    position: relative;
+    z-index: 24;
+    width: 39.6866840731%;
+    margin-top: -102px;
+    margin-left: 44.90796%;
+    font-size: 1.182em;
+  }
+
+  .db .pais2 {
+    position: relative;
+    z-index: 17;
+    width: 39.6866840731%;
+    margin-top: -113px;
+    margin-left: 44.38549%;
+    font-size: 1.182em;
+  }
+
+  .db .precio {
+    position: relative;
+    z-index: 1;
+    width: 39.6866840731%;
+    margin-top: 19px;
+    margin-left: 29.3563%;
+    font-size: 1.182em;
+  }
+
+  .db .puerto1 {
+    position: relative;
+    z-index: 20;
+    width: 39.6866840731%;
+    margin-top: 8px;
+    margin-left: 44.38549%;
+    font-size: 1.182em;
+  }
+
+  .db .puerto2 {
+    position: relative;
+    z-index: 13;
+    width: 39.6866840731%;
+    margin-top: 8px;
+    margin-left: 44.38549%;
+    font-size: 1.182em;
+  }
+
+  .db .submit {
+    width: 19.5822454308%;
+    margin-left: 44.38549%;
+    font-size: 1em;
+  }
+
+  .main .acontainer {
+    height: 737px;
+  }
+
+  .db .form-label-1 {
+    z-index: 25;
+    margin-top: 32px;
+    margin-left: 44.38549%;
+    font-size: 11px;
+  }
+
+  .db .form-label-10 {
+    clear: both;
+    z-index: 4;
+    margin-top: 48px;
+    margin-left: 44.38549%;
+    font-size: 11px;
+  }
+
+  .db .form-label-11 {
+    z-index: 2;
+    margin-top: 19px;
+    margin-left: 5.87371%;
+    font-size: 1.182em;
+  }
+
+  .db .form-label-2 {
+    clear: both;
+    z-index: 23;
+    margin-top: 36px;
+    margin-left: 44.38549%;
+    font-size: 11px;
+  }
+
+  .db .form-label-3 {
+    clear: both;
+    z-index: 21;
+    margin-top: 43px;
+    margin-left: 44.38549%;
+    font-size: 11px;
+  }
+
+  .db .form-label-4 {
+    z-index: 18;
+    margin-top: 8px;
+    margin-left: 44.38549%;
+    font-size: 11px;
+  }
+
+  .db .form-label-5 {
+    clear: both;
+    z-index: 16;
+    margin-top: 45px;
+    margin-left: 44.38549%;
+    font-size: 11px;
+  }
+
+  .db .form-label-6 {
+    clear: both;
+    z-index: 14;
+    margin-top: 47px;
+    margin-left: 44.38549%;
+    font-size: 11px;
+  }
+
+  .db .form-label-7 {
+    z-index: 11;
+    margin-top: 11px;
+    margin-left: 44.38549%;
+    font-size: 11px;
+  }
+
+  .db .form-label-8 {
+    clear: both;
+    z-index: 9;
+    margin-top: 40px;
+    margin-left: 44.38549%;
+    font-size: 11px;
+  }
+
+  .db .form-label-9 {
+    z-index: 6;
+    margin-top: 9px;
+    margin-left: 44.38549%;
+    font-size: 11px;
+  }
+
+  ._container .logo-1 {
+    width: 100%;
+    font-size: 1.818em;
+  }
+
+  ._container .main-1 {
+    height: 750px;
+    margin-left: -13.80298%;
+  }
+}
+
+@media(max-width: 320px) {
+  .acontainer .db {
+    position: relative;
+    z-index: 27;
+    margin-left: 2.20775%;
+  }
+
+  .acontainer .line {
+    position: relative;
+    z-index: 28;
+    margin-top: -701px;
+    margin-left: 37.87511%;
+  }
+
+  .db .ciudad1 {
+    position: relative;
+    z-index: 22;
+    margin-left: 44.38526%;
+  }
+
+  .db .ciudad2 {
+    position: relative;
+    z-index: 15;
+    margin-left: 44.38526%;
+  }
+
+  .db .contenedor {
+    position: relative;
+    z-index: 7;
+    margin-left: 5.87191%;
+    font-size: 1.091em;
+  }
+
+  .db .contenedor_altura {
+    position: relative;
+    z-index: 3;
+    margin-left: 44.38526%;
+  }
+
+  .db .contenedor_nombre {
+    position: relative;
+    z-index: 5;
+    margin-left: 44.38526%;
+  }
+
+  .db .destino {
+    position: relative;
+    z-index: 19;
+    margin-left: 5.87191%;
+  }
+
+  .db .form-label {
+    position: relative;
+  }
+
+  .db .logistica {
+    position: relative;
+    z-index: 12;
+    margin-left: 5.87191%;
+  }
+
+  .db .logistica_prov {
+    position: relative;
+    z-index: 8;
+    margin-left: 44.38526%;
+  }
+
+  .db .logistica_tipo {
+    position: relative;
+    z-index: 10;
+    margin-left: 44.38526%;
+  }
+
+  .db .origen {
+    position: relative;
+    z-index: 26;
+    margin-left: 5.87191%;
+    font-size: 1.091em;
+  }
+
+  .db .pais1 {
+    position: relative;
+    z-index: 24;
+    margin-left: 44.90571%;
+  }
+
+  .db .pais2 {
+    position: relative;
+    z-index: 17;
+    margin-left: 44.38526%;
+  }
+
+  .db .precio {
+    position: relative;
+    z-index: 1;
+    margin-left: 24.00196%;
+  }
+
+  .db .puerto1 {
+    position: relative;
+    z-index: 20;
+    margin-left: 44.38526%;
+  }
+
+  .db .puerto2 {
+    position: relative;
+    z-index: 13;
+    margin-left: 44.38526%;
+  }
+
+  .db .submit {
+    margin-left: 44.38526%;
+  }
+
+  .db .form-label-1 {
+    z-index: 25;
+    margin-left: 44.38526%;
+  }
+
+  .db .form-label-10 {
+    z-index: 4;
+    margin-left: 44.38526%;
+  }
+
+  .db .form-label-11 {
+    z-index: 2;
+    margin-left: 5.87191%;
+  }
+
+  .db .form-label-2 {
+    z-index: 23;
+    margin-left: 44.38526%;
+  }
+
+  .db .form-label-3 {
+    z-index: 21;
+    margin-left: 44.38526%;
+  }
+
+  .db .form-label-4 {
+    z-index: 18;
+    margin-left: 44.38526%;
+  }
+
+  .db .form-label-5 {
+    z-index: 16;
+    margin-left: 44.38526%;
+  }
+
+  .db .form-label-6 {
+    z-index: 14;
+    margin-left: 44.38526%;
+  }
+
+  .db .form-label-7 {
+    z-index: 11;
+    margin-left: 44.38526%;
+  }
+
+  .db .form-label-8 {
+    z-index: 9;
+    margin-left: 44.38526%;
+  }
+
+  .db .form-label-9 {
+    z-index: 6;
+    margin-left: 44.38526%;
+  }
+
+  ._container .logo-1 {
+    font-size: 1.636em;
+  }
+
+  ._container .main-1 {
+    margin-top: 12px;
+    margin-left: -13.81157%;
+  }
+}
